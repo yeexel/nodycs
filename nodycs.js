@@ -14,8 +14,8 @@ var restler = require('restler'); // HTTP client library
 var cheerio = require('cheerio'); // jQuery core
 
 var api_key = [
-    '25b89a765302ed299113eb730be84e12', // musixmatch.com
-    '1668386/84d912e5be133d4869d19ec001783ec3' // lyrics.com
+    'KEY', // musixmatch.com
+    'KEY' // lyrics.com
 ];
 
 var url_show = util.format(
